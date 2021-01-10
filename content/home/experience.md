@@ -22,24 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Full Time Graduate Student
+    company: Case Western Reserve University
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Cleveland, OH
+    date_start: '2019-05-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+    description: Works full time in the Theory Division (Scott) Laboratory. Passed qualifying exams to become a PhD candidate in March 2020.
+
+  - title: Medical Student
+    company: Case Western Reserve University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Cleveland, OH
+    date_start: '2017-06-01'
+    date_end: '2019-05-01'
+    description: Completed the first two years of didactic training in medical school, while working part time in the Theory Division (Scott) Laboratory. Passed Step 1 of the USMLE exams. Medical school to be completed after PhD defense. 
+        
+  - title: Content Strategist & Editor
+    company: Keas, Inc.
+    company_url: ''
+    location: San Francisco, California
+    date_start: '2014-10-01'
+    date_end: '2017-05-31'
+    description: Researched, wrote, and edited health and wellness content for an employee engagement and benefits management platform. Keas was acquired by Welltok in 2016.
 ---
