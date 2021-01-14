@@ -10,8 +10,8 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
-subtitle:
+title: 'Recent Honors and Awards'
+subtitle: Please see my CV for full list.
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -29,8 +29,8 @@ item:
   description: ""
   organization: NIH/NCI
   organization_url:  
-  title: F30 NRSA Grant
-  url: ""
+  title: F30 Ruth L. Kirschstein Individual Predoctoral NRSA for MD/PhD and other Dual Degree Fellowships
+  url: "https://researchtraining.nih.gov/programs/research-education/F30"
 - certificate_url:  
   date_end: ""
   date_start: "2020-11-01"
@@ -45,8 +45,8 @@ item:
   description: ""
   organization: CWRU
   organization_url:  
-  title: Translational Fellowship at CWRU
-  url: ""
+  title: Translational Fellowship
+  url: "https://case.edu/medicine/research/entrepreneurship-school-medicine/translation-fellows-program/2020-2021-tfp-fellows"
 - certificate_url:  
   date_end: ""
   date_start: "2019-10-01"
@@ -54,6 +54,30 @@ item:
   organization: CWRU
   organization_url:  
   title: Rising Star Award at the Innovators in AYA Cancer Symposium
-  url: ""
+  url: "https://case.edu/cancer/about-us/news/reflecting-2019-innovators-aya-cancer-symposium"
+- certificate_url:  
+  date_end: ""
+  date_start: "2016-05-01"
+  description: ""
+  organization: University of San Francisco
+  organization_url:  
+  title: Dean's Medal for Excellence in the Sciences
+  url: "https://catalog.usfca.edu/content.php?catoid=35&navoid=8278#:~:text=The%20Dean's%20Medal%20for%20Excellence%20in%20the%20Sciences,Francisco%2C%20its%20mission%20and%20goals."
+# - certificate_url:  
+#   date_end: ""
+#   date_start: "2016-05-01"
+#   description: ""
+#   organization: University of San Francisco
+#   organization_url:  
+#   title: Graduated summa cum laude
+#   url: ""
+  # - certificate_url:  
+  # date_end: ""
+  # date_start: "2015-05-01"
+  # description: ""
+  # organization: University of San Francisco
+  # organization_url:  
+  # title: Carol Chihara Award
+  # url: ""
 
 ---
