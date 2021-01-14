@@ -79,4 +79,4 @@ highlight_name: false
 Jessica Scarborough is a PhD Candidate (G2) in the combined MD/PhD Medical Scientist Training Program (MSTP) at Case Western Reserve University. Her research interests include the extraction of biomarkers to predict therapeutic response in cancer and the evolutionary mechanisms underlying collateral sensitivity and resistance in cancer treatment. She works with an incredible team, the Theory Division Laboratory, at Cleveland Clinic's Lerner Research Institute. This research group is run by Dr. Jacob Scott, a radiation oncologist who specializes in soft tissue cancers. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}biosketch{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/biosketch.pdf" "newtab" >}}biosketch{{< /staticref >}}.
