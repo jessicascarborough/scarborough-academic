@@ -21,7 +21,18 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
+
+experience:
+  - title: Translational Fellow
+    company: Case Western Reserve University
+    company_url: 'https://case.edu/medicine/research/entrepreneurship-school-medicine/translational-fellows-program'
+    location: Cleveland, OH
+    date_start: '2020-07-01'
+    date_end: '2021-06-01'
+    description: Training in entrepreneurship and translation of innovation into commercial ventures via seminars, workshops, and networking in the field of commercial biomedical science.
+
   - title: Full Time Graduate Student
     company: Case Western Reserve University
     company_url: ''
