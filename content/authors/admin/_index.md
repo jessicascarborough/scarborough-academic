@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jessica Scarborough
+title: Jessica Scarborough, PhD
 
 # Is this the primary user of the site?
 superuser: true
