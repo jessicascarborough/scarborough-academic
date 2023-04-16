@@ -25,6 +25,14 @@ date_format: Jan 2006
 experience:
 
 experience:
+  - title: Medical Student
+    company: Case Western Reserve University
+    company_url: ''
+    location: Cleveland, OH
+    date_start: '2022-06-01'
+    date_end: ''
+    description: Undergoing last two years of clinical training in medical school at CWRU.
+    
   - title: Translational Fellow
     company: Case Western Reserve University
     company_url: 'https://case.edu/medicine/research/entrepreneurship-school-medicine/translational-fellows-program'
@@ -38,8 +46,8 @@ experience:
     company_url: ''
     location: Cleveland, OH
     date_start: '2019-05-01'
-    date_end: ''
-    description: Works full time in the Theory Division (Scott) Laboratory. Passed qualifying exams to become a PhD candidate in March 2020.
+    date_end: '2022-06-01'
+    description: Worked full time in the Theory Division (Scott) Laboratory. Defended PhD dissertation in March 2022.
 
   - title: Medical Student
     company: Case Western Reserve University

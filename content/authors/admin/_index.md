@@ -6,7 +6,7 @@ title: Jessica Scarborough
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student
+role: M3 MSTP Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,12 +28,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Systems Biology and Bioinformatics
-    institution: Case Western Reserve University
-    year: G2
   - course: MD
     institution: Case Western Reserve University
-    year: Current G2 in MSTP
+    year: Current M3 in MSTP
+  - course: PhD in Systems Biology and Bioinformatics
+    institution: Case Western Reserve University
+    year: 2022
   - course: MSc in Health Informatics
     institution: University of San Francisco
     year: 2017
@@ -73,10 +73,10 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Jessica Scarborough is a PhD Candidate (G2) in the combined MD/PhD Medical Scientist Training Program (MSTP) at Case Western Reserve University (CWRU). She works with an incredible team, the Theory Division Laboratory, at Cleveland Clinic's Lerner Research Institute, which is lead by Dr. Jacob Scott. There, her research interests include the extraction of biomarkers to predict therapeutic response in cancer and the evolutionary mechanisms underlying collateral sensitivity and resistance in cancer treatment. She is passionate about translational science improving the lives of patients and is pursuing a Translational Fellowship at CWRU to gain insight into the entrepreneurial skills required to move technologies from bench to bedside. 
+Jessica Scarborough is a third year medical student in the combined MD/PhD Medical Scientist Training Program (MSTP) at Case Western Reserve University (CWRU). She defended her PhD in March 2022. She worked with an incredible team, the Theory Division Laboratory, at Cleveland Clinic's Lerner Research Institute, which is lead by Dr. Jacob Scott. There, her research interests included the extraction of biomarkers to predict therapeutic response in cancer and the evolutionary mechanisms underlying collateral sensitivity and resistance in cancer treatment. She is passionate about translational science improving the lives of patients and completed a Translational Fellowship at CWRU to gain insight into the entrepreneurial skills required to move technologies from bench to bedside. Now, she is planning on applied into Internal Medicine for residency with the goal of pursuing a Hematology/Oncology Fellowship. 
 
 
 {{< icon name="download" pack="fas" >}} Download her {{< staticref "media/biosketch.pdf" "newtab" >}}biosketch{{< /staticref >}} or {{< staticref "media/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
