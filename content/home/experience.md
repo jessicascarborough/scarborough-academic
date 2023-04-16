@@ -33,7 +33,7 @@ experience:
     date_end: ''
     description: Completing the last two years of medical school, including clinical rotations and didactic learning. 
     
-  -title: Venture Fellow
+  - title: Venture Fellow
     company: Cleveland Life Sciences Accelerator Fund
     company_url: ''
     location: Cleveland, OH
