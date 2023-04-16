@@ -31,15 +31,15 @@ experience:
     location: Cleveland, OH
     date_start: '2022-06-01'
     date_end: ''
-    description: Undergoing last two years of clinical training in medical school at CWRU.
+    description: Completing the last two years of medical school, including clinical rotations and didactic learning. 
     
-  - title: Translational Fellow
-    company: Case Western Reserve University
-    company_url: 'https://case.edu/medicine/research/entrepreneurship-school-medicine/translational-fellows-program'
+  -title: Venture Fellow
+    company: Cleveland Life Sciences Accelerator Fund
+    company_url: ''
     location: Cleveland, OH
-    date_start: '2020-07-01'
-    date_end: '2021-06-01'
-    description: Training in entrepreneurship and translation of innovation into commercial ventures via seminars, workshops, and networking in the field of commercial biomedical science.
+    date_start: '2022-03-01'
+    date_end: ''
+    description: Researches and advises on scientific diligence for potential investments in the biotechnology, pharmaceutical, and health informatics industries. 
 
   - title: Full Time Graduate Student
     company: Case Western Reserve University
