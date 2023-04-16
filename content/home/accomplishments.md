@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
 - certificate_url:  
   date_end: ""
+  date_start: "2022-05-01"
+  description: ""
+  organization: Systems Biology and Bioinformatics Program, Case Western Reserve University
+  organization_url:  
+  title: Doctoral Excellence Award
+  url: "https://case.edu/medicine/grad-education/awards/doctoral-excellence-award"
+- certificate_url:  
+  date_end: ""
   date_start: "2021-01-01"
   description: ""
   organization: NIH/NCI
